@@ -1,6 +1,6 @@
 import ContentBlock from './ContentBlock';
 import BenefitsSection from './BenefitsSection';
-const seoHeroImageUrl = '../../public/pngegg--28--2.png';
+const seoHeroImageUrl = '/pngegg--28--2.png';
 
 const seoHeroData = {
   titlePart1: "Search Engine Optimization",
