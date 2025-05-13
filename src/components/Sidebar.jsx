@@ -11,6 +11,7 @@ const navItemsData = [
     figmaOuterBorderLeft: '-158px',
     figmaOuterBorderWidth: '330px',
     itemTextColor: 'text-white',
+    
     itemBgColor: 'bg-brand-sidebar-bg'
   },
   {
