@@ -173,6 +173,7 @@ const Sidebar = ({ isMobileMenuOpen, toggleMobileMenu }) => {
         })}
       </nav>
     </aside>
+    
   );
 };
 
